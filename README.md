@@ -74,7 +74,7 @@ Portfolio fotográfico profesional desarrollado con HTML5, CSS3 y Bootstrap 5, d
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/manurodriguez/artgallery.git
+git clone https://github.com/jmanurodriguez/ArtGallery
 cd artgallery
 ```
 
@@ -223,8 +223,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 - 🎓 Desarrollador Web Fron-End
 - 🌐 Portfolio: https://portfolio-manu-rodriguez.web.app
 - 📧 Email: manuxs.rodriguez@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/manuelrodriguez](https://linkedin.com/in/manuelrodriguez)
-- 🐱 GitHub: [@manurodriguez](https://github.com/manurodriguez)
+- 💼 LinkedIn: [linkedin.com/in/manuelrodriguez](https://www.linkedin.com/in/juan-manuel-rodriguez-frontend/)
+- 🐱 GitHub: [@manurodriguez](https://github.com/jmanurodriguez)
 
 ## 📞 Contacto
 
